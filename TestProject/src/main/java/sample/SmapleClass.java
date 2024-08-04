@@ -4,6 +4,8 @@ public class SmapleClass {
 
 	public String print() {
 		
-		return "æ»≥Á";
+		
+		
+		return "æ»≥Á«œººø‰";
 	}
 }
