@@ -7,6 +7,6 @@ public class testClass {
 		
 		SmapleClass sample = new SmapleClass();
 		System.out.println(sample.print());
-		
+		System.out.println("æ»≥Á«œººø‰");
 	}
 }
